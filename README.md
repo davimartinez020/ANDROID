@@ -1,2 +1,2 @@
 # ANDROID
- Site Android
+ Projeto site Android feito em conjunto do Cursoemvideo.
